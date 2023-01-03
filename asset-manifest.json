@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/github.io/julesangbog.dk/static/css/main.c8d70438.css",
-    "main.js": "/github.io/julesangbog.dk/static/js/main.c6e71619.js",
-    "static/media/tree-large.png": "/github.io/julesangbog.dk/static/media/tree-large.09813ef79b93a7e5e634.png",
-    "index.html": "/github.io/julesangbog.dk/index.html",
-    "main.c8d70438.css.map": "/github.io/julesangbog.dk/static/css/main.c8d70438.css.map",
-    "main.c6e71619.js.map": "/github.io/julesangbog.dk/static/js/main.c6e71619.js.map"
+    "main.css": "/julesangbog.dk/static/css/main.c8d70438.css",
+    "main.js": "/julesangbog.dk/static/js/main.656f1ded.js",
+    "static/media/tree-large.png": "/julesangbog.dk/static/media/tree-large.09813ef79b93a7e5e634.png",
+    "index.html": "/julesangbog.dk/index.html",
+    "main.c8d70438.css.map": "/julesangbog.dk/static/css/main.c8d70438.css.map",
+    "main.656f1ded.js.map": "/julesangbog.dk/static/js/main.656f1ded.js.map"
   },
   "entrypoints": [
     "static/css/main.c8d70438.css",
-    "static/js/main.c6e71619.js"
+    "static/js/main.656f1ded.js"
   ]
 }
