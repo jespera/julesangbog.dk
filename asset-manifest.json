@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/julesangbog.dk/static/css/main.c8d70438.css",
-    "main.js": "/julesangbog.dk/static/js/main.2791d149.js",
+    "main.js": "/julesangbog.dk/static/js/main.260bcf87.js",
     "static/media/tree-large.png": "/julesangbog.dk/static/media/tree-large.09813ef79b93a7e5e634.png",
     "index.html": "/julesangbog.dk/index.html",
     "main.c8d70438.css.map": "/julesangbog.dk/static/css/main.c8d70438.css.map",
-    "main.2791d149.js.map": "/julesangbog.dk/static/js/main.2791d149.js.map"
+    "main.260bcf87.js.map": "/julesangbog.dk/static/js/main.260bcf87.js.map"
   },
   "entrypoints": [
     "static/css/main.c8d70438.css",
-    "static/js/main.2791d149.js"
+    "static/js/main.260bcf87.js"
   ]
 }
